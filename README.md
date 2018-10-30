@@ -1,4 +1,7 @@
 # google-access-helper
+<p align="center"><img width="15%" src="icons/icon-128.png" /></p>
+<h1 align="center">谷歌访问助手</h1>
+
 **本软件已破解，可永久免费使用！**
 
 ## 安装说明
